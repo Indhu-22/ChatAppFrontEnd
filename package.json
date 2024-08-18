@@ -1,0 +1,14 @@
+{
+  "name": "chat-app-front-end",
+  "version": "0.0.0",
+  "description": "ChatAppFrontEnd",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
